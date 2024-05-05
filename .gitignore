@@ -1,0 +1,6 @@
+# Files/Folders to be ignored by git
+
+## Files
+Cargo.lock
+
+## Folders
